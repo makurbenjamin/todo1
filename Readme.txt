@@ -12,6 +12,8 @@ git remote -v		- shows current repo
 git push -u origin master	- uploads commit to master
 git push			- following pushes on the same branch
 
+git pull		- sincronizar del servidor a local
+
 FROM GIT PAGE
 =============
 
